@@ -20,5 +20,5 @@ python demo.py
 ## Qualitative Results
 ![Qualitative Results](./Qual.png) 
 ## Performance Snapshot
- ![Performance Snapshot](./Snáphot.png)  
+ ![Performance Snapshot](./Snapshot.png)  
 
