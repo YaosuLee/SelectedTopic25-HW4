@@ -18,7 +18,7 @@ python train.py
 python demo.py
 ```
 ## Qualitative Results
-![Qualitative Results](./Vis.pdf) 
+![Qualitative Results](./Qual.png) 
 ## Performance Snapshot
- ![Performance Snapshot](./Screenshot 2025-05-24 012416.png)  
+ ![Performance Snapshot](./Snáphot.png)  
 
