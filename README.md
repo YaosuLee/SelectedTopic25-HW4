@@ -9,6 +9,15 @@ My code is base on git PromptIR: https://github.com/va1shn9v/PromptIR.git
 ```
 conda env create -f env.yml
 ```
+The training data should be placed in ```data/hw4_realse_dataset```.
+After placing the training data the directory structure would be as follows:
+```
+└───data
+    ├───hw4_realse_dataset
+       ├───train
+       └───test
+```
+
 ## Training 
 ```
 python train.py
