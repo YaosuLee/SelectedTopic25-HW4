@@ -26,6 +26,10 @@ python train.py
 ```
 python demo.py
 ```
+After get the ouput image, put the output path to example_img2npz.py to get the pred.npz file.
+```
+python example_img2npz.py
+``` 
 ## Qualitative Results
 ![Qualitative Results](./Qual.png) 
 ## Performance Snapshot
